@@ -1,0 +1,7 @@
+bridging
+good
+intact
+broken
+inclined
+multiple
+poor

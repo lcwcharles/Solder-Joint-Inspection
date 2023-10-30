@@ -1,0 +1,6 @@
+train: /kaggle/input/solderjoint/SolderJoint/train/images
+val: /kaggle/input/solderjoint/SolderJoint/train/images
+test: /kaggle/input/solderjoint/SolderJoint/train/images
+
+nc: 7
+names: ['bridging', 'good', 'intact', 'broken', 'inclined', 'multiple', 'poor']
